@@ -8,11 +8,11 @@ AI DriftGuard monitors configuration differences across environments and provide
 
 ## Features
 
-- 🔍 **Automated Drift Detection**: Compares Dev and Prod configurations in real-time
-- 🤖 **AI-Powered Analysis**: Uses OpenAI to provide context-aware summaries of differences
-- 📊 **Structured Logging**: Automatically logs drift events to Google Sheets
-- 💬 **Chat Interface**: Interactive workflow triggered via chat messages
-- 🎯 **Structured Output**: Consistent, parseable drift reports
+-  **Automated Drift Detection**: Compares Dev and Prod configurations in real-time
+- **AI-Powered Analysis**: Uses OpenAI to provide context-aware summaries of differences
+-  **Structured Logging**: Automatically logs drift events to Google Sheets
+-  **Chat Interface**: Interactive workflow triggered via chat messages
+-  **Structured Output**: Consistent, parseable drift reports
 
 ## Workflow Architecture
 
