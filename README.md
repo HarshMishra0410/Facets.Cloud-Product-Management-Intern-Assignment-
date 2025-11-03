@@ -258,4 +258,5 @@ Total Deployments = Customers × Teams × Microservices × Daily Deployments
 Product Management Assignment for Facets.Cloud
 
 ---
+<p align="center">Thank You for the Opportunity❤️</p>
 
